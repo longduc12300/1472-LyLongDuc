@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 1472_Lý Long Đức</h1>
 <h3 align="center">A Devoloper from Hutech University class 20DTHC1</h3>
-[![image](https://github.com/longduc12300/1472-LyLongDuc/assets/127508928/6d1407fb-7795-4b79-8635-10541cf4ce49)
-](https://i.imgur.com/DY0ptiG.jpeg)<h3 align="left">Connect with me:</h3>
+![Duc](https://i.imgur.com/A1ufm21.jpeg)
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ly long duc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ly long duc" height="30" width="40" /></a>
 <a href="https://fb.com/long duc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="long duc" height="30" width="40" /></a>
